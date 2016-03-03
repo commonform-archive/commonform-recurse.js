@@ -1,0 +1,8 @@
+{
+  "name": "commohnform-recurse",
+  "version": "0.0.0",
+  "description": "recurse a Common Form",
+  "author": "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)",
+  "repository": "commonform/commohnform-recurse.js",
+  "license": "Apache-2.0"
+}
